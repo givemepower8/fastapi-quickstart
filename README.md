@@ -24,6 +24,10 @@ To try the application on your local machine:
 
 ### Install the requirements
 
+`python -m venv .venv`
+
+`.\.venv\Scripts\Activate.ps1`
+
 `pip install -r requirements.txt`
 
 ### Start the application
